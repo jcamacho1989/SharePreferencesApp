@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharePreferencesApp</string>
+    <string name="rut">rut</string>
+    <string name="nombre">nombre</string>
+    <string name="correo">correo</string>
+    <string name="leer">Leer</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar">Borrar</string>
+
+</resources>
